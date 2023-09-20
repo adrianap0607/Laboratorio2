@@ -1,0 +1,16 @@
+﻿id_curso,id_sede,nombre_curso,horario,duracion,dias,cantidad_estudiantes
+12300,110,Programación Orientada a Objetos ,9,3,"Lunes,Viernes",30
+12301,111,Introducción a la Programacion ,10,2,"Martes,Jueves",50
+12302,110,Cálculo I,14,3,"Lunes, Miércoles ",40
+12303,111,Cálculo II,15,2,"Martes,Jueves",60
+12304,117,Física I,12,3,"Miércoles,Viernes",35
+12305,112,Física II,7,3,"Lunes,Miércoles",45
+12306,112,Química General,9,3,"Martes,Jueves",55
+12307,113,Ciudadanía Global ,11,3,"Lunes,Miércoles",25
+12308,113,Álgebra Lineal ,13,3,"Martes,Jueves",20
+12309,114,Comunicación Efectiva,8,2,"Lunes,Miércoles",15
+12310,114,Estadística ,10,2,"Martes,Jueves",48
+12311,115,Biología ,16,2,"Lunes,Miércoles",15
+12312,115,Filosofía ,18,2,"Martes,Jueves",35
+12313,116,Física III,19,2,"Martes, Viernes ",22
+12314,116,Matemática Discreta ,21,2,"Lunes,Miércoles",35
